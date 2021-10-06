@@ -13,7 +13,7 @@ export default ({black}) => {
                             Home
                         </li>
                         <li>
-                            TV
+                            TVs
                         </li>
                         <li>
                             Filmes
